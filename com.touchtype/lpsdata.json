@@ -1,0 +1,881 @@
+[ {
+  "name" : "Afrikaans",
+  "language" : "af",
+  "country" : "ZA",
+  "sha1" : "5f3a1f6528f655a98b1538564474a01c03ffdfa1",
+  "version" : 101,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/af_ZA.zip"
+}, {
+  "name" : "Shqip",
+  "language" : "sq",
+  "country" : "AL",
+  "sha1" : "64c9c3ada39fad169affac1b20678cef483bfde3",
+  "version" : 100,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/sq_AL.zip"
+}, {
+  "name" : "العربية",
+  "language" : "ar",
+  "country" : "SA",
+  "sha1" : "db0a193bac0230d2f648dc78b51edf4c3e91fe41",
+  "version" : 103,
+  "archive" : "file:///system/com.touchtype/ar_SA.zip"
+}, {
+  "name" : "Հայերեն",
+  "language" : "hy",
+  "country" : "AM",
+  "sha1" : "ab5493602f3d25c59bfee8802ec82e7283f081f4",
+  "version" : 100,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/hy_AM.zip"
+}, {
+  "name" : "অসমীয়া",
+  "language" : "as",
+  "country" : "IN",
+  "sha1" : "21e8f19c1b80cee017dc24807cf3977a92e37e09",
+  "version" : 103,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/as_IN.zip"
+}, {
+  "name" : "Asturianu",
+  "language" : "ast",
+  "country" : "ES",
+  "sha1" : "a9ce745316731f2dd0e44fca289b60519156017a",
+  "version" : 101,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/ast_ES.zip"
+}, {
+  "name" : "Azərbaycanca",
+  "language" : "az",
+  "country" : "AZ",
+  "sha1" : "9a4d3ff291a0ff21f24f41c533a77b0b6f4b33bf",
+  "version" : 100,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/az_AZ.zip"
+}, {
+  "name" : "Euskara",
+  "language" : "eu",
+  "country" : "ES",
+  "sha1" : "eeea2d72af8802942f788c66076a4bb3abd4a303",
+  "version" : 100,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/eu_ES.zip"
+}, {
+  "name" : "Беларуская",
+  "language" : "be",
+  "country" : "BY",
+  "sha1" : "a8b8e0531bdc751a5711090cf77524dee8fcda88",
+  "version" : 100,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/be_BY.zip"
+}, {
+  "name" : "বাংলা",
+  "language" : "bn",
+  "country" : "IN",
+  "sha1" : "8aca9117a8a3ca76a58f9b0d71a55fb66bc56309",
+  "version" : 106,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/bn_IN.zip"
+}, {
+  "name" : "बड़ो",
+  "language" : "brx",
+  "country" : "IN",
+  "sha1" : "2cb74d16998af851e94233a4fe37097e5e948286",
+  "version" : 101,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/brx_IN.zip"
+}, {
+  "name" : "Bosanski",
+  "language" : "bs",
+  "country" : "BA",
+  "sha1" : "a466a8487aa07ddf8b9d6bf6db41cf87f354cece",
+  "version" : 102,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/bs_BA.zip"
+}, {
+  "name" : "Brezhoneg",
+  "language" : "br",
+  "country" : "FR",
+  "sha1" : "f00e0d7804d209f30449f4be3eb774d97aa6c8d2",
+  "version" : 107,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/br_FR.zip"
+}, {
+  "name" : "Български",
+  "language" : "bg",
+  "country" : "BG",
+  "sha1" : "726a7727129eaecbdf24b8bfccbd9e1de80e5eea",
+  "version" : 102,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/bg_BG.zip"
+}, {
+  "name" : "မြန်မာဘာသာ",
+  "language" : "my",
+  "country" : "MM",
+  "sha1" : "37900f50be01513feeed33f520d7a6a317b28cdc",
+  "version" : 105,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/my_MM.zip"
+}, {
+  "name" : "Català",
+  "language" : "ca",
+  "country" : "ES",
+  "sha1" : "4d7cfa86c9727b83e69b09b1a743a6dd1e52b4c1",
+  "version" : 101,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/ca_ES.zip"
+}, {
+  "name" : "Hrvatski",
+  "language" : "hr",
+  "country" : "HR",
+  "sha1" : "ba81163b85a7d737dd2bd89c9ea179d16db42d61",
+  "version" : 102,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/hr_HR.zip"
+}, {
+  "name" : "Český",
+  "language" : "cs",
+  "country" : "CZ",
+  "sha1" : "6cc09eba36e95d8237c9981ad8c20ddac2407e16",
+  "version" : 101,
+  "archive" : "file:///system/com.touchtype/cs_CZ.zip"
+}, {
+  "name" : "Dansk",
+  "language" : "da",
+  "country" : "DK",
+  "sha1" : "a2e9d12b598b0f409541c0c2d82aa52d8f990301",
+  "version" : 100,
+  "archive" : "file:///system/com.touchtype/da_DK.zip"
+}, {
+  "name" : "डोगरी",
+  "language" : "doi",
+  "country" : "IN",
+  "sha1" : "c0116adc612d2c055b427926ef1e31bdd0ccbf24",
+  "version" : 101,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/doi_IN.zip"
+}, {
+  "name" : "Nederlands",
+  "language" : "nl",
+  "country" : "NL",
+  "sha1" : "f65004032b33414159944276c7ac7da990286785",
+  "version" : 104,
+  "archive" : "file:///system/com.touchtype/nl_NL.zip"
+}, {
+  "name" : "English (AU)",
+  "language" : "en",
+  "country" : "AU",
+  "sha1" : "dbbeaaba7a629eea170b051c8cddc44b7d4c12e2",
+  "version" : 105,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/en_AU.zip"
+}, {
+  "name" : "English (CA)",
+  "language" : "en",
+  "country" : "CA",
+  "sha1" : "b5d7fd15567c3c77f78bb1395b1c4493d9e98c49",
+  "version" : 110,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/en_CA.zip"
+}, {
+  "name" : "English (UK)",
+  "language" : "en",
+  "country" : "GB",
+  "sha1" : "1c90b1b1bd0680aa5be601ddf6000947fa9cef11",
+  "version" : 111,
+  "archive" : "file:///system/com.touchtype/en_GB.zip"
+}, {
+  "name" : "English (US)",
+  "language" : "en",
+  "country" : "US",
+  "sha1" : "fc6228ccf90e653bc47598904e1d2d4c09c302f8",
+  "version" : 112,
+  "archive" : "file:///system/com.touchtype/en_US.zip"
+}, {
+  "name" : "Eesti",
+  "language" : "et",
+  "country" : "EE",
+  "sha1" : "ddef89c211adc765923bae7443ad76a5d4fe6940",
+  "version" : 103,
+  "archive" : "file:///system/com.touchtype/et_EE.zip"
+}, {
+  "name" : "Føroyskt",
+  "language" : "fo",
+  "country" : "FO",
+  "sha1" : "c3b5ee9139f2a9eb67b7d0f113e55013a5ccb7ef",
+  "version" : 102,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/fo_FO.zip"
+}, {
+  "name" : "Suomi",
+  "language" : "fi",
+  "country" : "FI",
+  "sha1" : "3b3c4e68dac3f79cd8b314ae3382a381796b7c47",
+  "version" : 108,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/fi_FI.zip"
+}, {
+  "name" : "Français (CA)",
+  "language" : "fr",
+  "country" : "CA",
+  "sha1" : "16403e6b12f241a52c34045141cccbb1cf290056",
+  "version" : 102,
+  "archive" : "file:///system/com.touchtype/fr_CA.zip"
+}, {
+  "name" : "Français (FR)",
+  "language" : "fr",
+  "country" : "FR",
+  "sha1" : "e56081cbb13c8a450bcb78a57d09af0d5b923aa2",
+  "version" : 107,
+  "archive" : "file:///system/com.touchtype/fr_FR.zip"
+}, {
+  "name" : "Frysk",
+  "language" : "fy",
+  "country" : "NL",
+  "sha1" : "0c84fc6b34d0a30aa29956a24d216dc62cc675f7",
+  "version" : 102,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/fy_NL.zip"
+}, {
+  "name" : "Galego",
+  "language" : "gl",
+  "country" : "ES",
+  "sha1" : "68d2b2fbc77c88722a6acdcbf3fdc595ca1e8489",
+  "version" : 100,
+  "archive" : "file:///system/com.touchtype/gl_ES.zip"
+}, {
+  "name" : "ქართული",
+  "language" : "ka",
+  "country" : "GE",
+  "sha1" : "6a2dd792cd1f405a4aa9e70abb91cfdd080b76bf",
+  "version" : 101,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/ka_GE.zip"
+}, {
+  "name" : "Deutsch",
+  "language" : "de",
+  "country" : "DE",
+  "sha1" : "a10e31b645c6c80e1cd4251eb011655ec473c621",
+  "version" : 108,
+  "archive" : "file:///system/com.touchtype/de_DE.zip"
+}, {
+  "name" : "Ελληνικά",
+  "language" : "el",
+  "country" : "GR",
+  "sha1" : "7f43a2375c6c8b7a96736b8bb918b5eae7997f7e",
+  "version" : 101,
+  "archive" : "file:///system/com.touchtype/el_GR.zip"
+}, {
+  "name" : "ગુજરાતી",
+  "language" : "gu",
+  "country" : "IN",
+  "sha1" : "fc3098ee46d1b5a0800a8543eb81148f7f981ff5",
+  "version" : 110,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/gu_IN.zip"
+}, {
+  "name" : "Hausa",
+  "language" : "ha",
+  "country" : "NG",
+  "sha1" : "e0a7f98840d1b29c5f426ae655a0d48765b10b2c",
+  "version" : 101,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/ha_NG.zip"
+}, {
+  "name" : "עברית",
+  "language" : "he",
+  "country" : "IL",
+  "sha1" : "fdd8d1d35ad3c1bb481a526f8b618bf34faf559e",
+  "version" : 102,
+  "archive" : "file:///system/com.touchtype/he_IL.zip"
+}, {
+  "name" : "हिन्दी",
+  "language" : "hi",
+  "country" : "IN",
+  "sha1" : "6446be4e35dc00b1053b820a58cd910c70edf6c5",
+  "version" : 113,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/hi_IN.zip"
+}, {
+  "name" : "Hinglish",
+  "language" : "hg",
+  "country" : "IN",
+  "sha1" : "9f68a7ca82c276e70a021ce96e68d25dea4eb2fc",
+  "version" : 102,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/hg_IN.zip"
+}, {
+  "name" : "Magyar",
+  "language" : "hu",
+  "country" : "HU",
+  "sha1" : "019239b9f35075c9f6aef21b2b8c539226e1e252",
+  "version" : 103,
+  "archive" : "file:///system/com.touchtype/hu_HU.zip"
+}, {
+  "name" : "Íslenska",
+  "language" : "is",
+  "country" : "IS",
+  "sha1" : "257e766b5da5f5e761544cd151c400231f632418",
+  "version" : 100,
+  "archive" : "file:///system/com.touchtype/is_IS.zip"
+}, {
+  "name" : "Igbo",
+  "language" : "ig",
+  "country" : "NG",
+  "sha1" : "6b8a62922b43b092855946957d918c199b78bfb1",
+  "version" : 101,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/ig_NG.zip"
+}, {
+  "name" : "Bahasa Indonesia",
+  "language" : "id",
+  "country" : "ID",
+  "sha1" : "43692d62aaa772238da6b81acc64409563a1011e",
+  "version" : 101,
+  "archive" : "file:///system/com.touchtype/id_ID.zip"
+}, {
+  "name" : "Gaeilge",
+  "language" : "ga",
+  "country" : "IE",
+  "sha1" : "064d11e66e7dceae3e4de751fd7c1f551a7cd027",
+  "version" : 100,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/ga_IE.zip"
+}, {
+  "name" : "Italiano",
+  "language" : "it",
+  "country" : "IT",
+  "sha1" : "ee4ac73b37491b1541d498b45d48384d7964644e",
+  "version" : 107,
+  "archive" : "file:///system/com.touchtype/it_IT.zip"
+}, {
+  "name" : "日本語",
+  "language" : "ja",
+  "country" : "JP",
+  "sha1" : "c02650f090bd52886c27b7d03949bb9da9ccce70",
+  "version" : 14,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/ja_JP.zip"
+}, {
+  "name" : "Basa Jawa",
+  "language" : "jv",
+  "country" : "ID",
+  "sha1" : "64d2d7ac7d3dbee19d12be7394f68fc621f9e2a4",
+  "version" : 100,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/jv_ID.zip"
+}, {
+  "name" : "कॉशुर",
+  "language" : "ks",
+  "country" : "IN",
+  "sha1" : "b44a534daf41fef9626e3c3cbbacf03e607b74c0",
+  "version" : 101,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/ks_IN.zip"
+}, {
+  "name" : "ಕನ್ನಡ",
+  "language" : "kn",
+  "country" : "IN",
+  "sha1" : "65731e19b13e3ce8d79d4fc542c29ab368658bd4",
+  "version" : 105,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/kn_IN.zip"
+}, {
+  "name" : "Қазақ",
+  "language" : "kk",
+  "country" : "KZ",
+  "sha1" : "a2de27e74c924eb20bdc185c3a257eb0ac8dd485",
+  "version" : 100,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/kk_KZ.zip"
+}, {
+  "name" : "ភាសាខ្មែរ",
+  "language" : "km",
+  "country" : "KH",
+  "sha1" : "47dec5b6bcf01b1820ec9bb382cafc21b0240368",
+  "version" : 105,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/km_KH.zip"
+}, {
+  "name" : "कोंकणी",
+  "language" : "kok",
+  "country" : "IN",
+  "sha1" : "f33e9bfab1e0550d4dc313870e584bbd5cf2bfbf",
+  "version" : 101,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/kok_IN.zip"
+}, {
+  "name" : "ಕೊಂಕಣಿ",
+  "language" : "knn",
+  "country" : "IN",
+  "sha1" : "7fd6c78eb4ec29572b369b74261ca07623b4264f",
+  "version" : 101,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/knn_IN.zip"
+}, {
+  "name" : "한국어",
+  "language" : "ko",
+  "country" : "KR",
+  "sha1" : "6c273eac308315d78b261238c47bec5c56bedac1",
+  "version" : 105,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/ko_KR.zip"
+}, {
+  "name" : "Кыргызча",
+  "language" : "ky",
+  "country" : "KG",
+  "sha1" : "5440b8dd522be6e5bd413c7132fad41d56b3a7c7",
+  "version" : 100,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/ky_KG.zip"
+}, {
+  "name" : "ລາວ",
+  "language" : "lo",
+  "country" : "LA",
+  "sha1" : "be53e5ca594ad2ab51c77b57ae143aa171c687bb",
+  "version" : 102,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/lo_LA.zip"
+}, {
+  "name" : "Latviešu",
+  "language" : "lv",
+  "country" : "LV",
+  "sha1" : "4f3e1cff7250d1fc731b82b9261b1f9f5996e2e3",
+  "version" : 102,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/lv_LV.zip"
+}, {
+  "name" : "Lietuvių",
+  "language" : "lt",
+  "country" : "LT",
+  "sha1" : "b982000fd7cbbf18d0bc2972a60f012f1aff146e",
+  "version" : 103,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/lt_LT.zip"
+}, {
+  "name" : "Lëtzebuergesch",
+  "language" : "lb",
+  "country" : "LU",
+  "sha1" : "084194257567fb3163a2b02eb0634442ec6dc8f9",
+  "version" : 102,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/lb_LU.zip"
+}, {
+  "name" : "Македонски",
+  "language" : "mk",
+  "country" : "MK",
+  "sha1" : "69bd9788005de876fad30eac625c6f9de936583d",
+  "version" : 102,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/mk_MK.zip"
+}, {
+  "name" : "मैथिली",
+  "language" : "mai",
+  "country" : "IN",
+  "sha1" : "4dae610d551b9038152c56043e3bdf9a7e8a9bf0",
+  "version" : 101,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/mai_IN.zip"
+}, {
+  "name" : "Malagasy",
+  "language" : "mg",
+  "country" : "MG",
+  "sha1" : "a46a1157fb9e7a2cfe3af41e04f2ae9c3d33c30a",
+  "version" : 100,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/mg_MG.zip"
+}, {
+  "name" : "Bahasa Melayu",
+  "language" : "ms",
+  "country" : "MY",
+  "sha1" : "ffe5310ee46376fd8ec631e4ea2f6e47bb19d2a5",
+  "version" : 100,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/ms_MY.zip"
+}, {
+  "name" : "മലയാളം",
+  "language" : "ml",
+  "country" : "IN",
+  "sha1" : "c4d5c24a5ab50108f4beb9c131a04c23b17a3d94",
+  "version" : 105,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/ml_IN.zip"
+}, {
+  "name" : "মৈতৈলোন্",
+  "language" : "mni",
+  "country" : "IN",
+  "sha1" : "e53255647f4f2ae7edeef9d5df15882f278995b8",
+  "version" : 101,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/mni_IN.zip"
+}, {
+  "name" : "मराठी",
+  "language" : "mr",
+  "country" : "IN",
+  "sha1" : "4e0f5845807d50867c7e6406e46b22144e3c0352",
+  "version" : 111,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/mr_IN.zip"
+}, {
+  "name" : "Монгол",
+  "language" : "mn",
+  "country" : "MN",
+  "sha1" : "b0bb2c1a299d2528ea69428594a9c6c92f019af9",
+  "version" : 100,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/mn_MN.zip"
+}, {
+  "name" : "नेपाली",
+  "language" : "ne",
+  "country" : "NP",
+  "sha1" : "4e1447014bf2ceb106cb118b731a0e098d7eecb1",
+  "version" : 103,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/ne_NP.zip"
+}, {
+  "name" : "Norsk (Bokmål)",
+  "language" : "nb",
+  "country" : "NO",
+  "sha1" : "2536f96284d53ad599a8a917474064dcd9d72e53",
+  "version" : 100,
+  "archive" : "file:///system/com.touchtype/nb_NO.zip"
+}, {
+  "name" : "Norsk (Nynorsk)",
+  "language" : "nn",
+  "country" : "NO",
+  "sha1" : "47db68ab62b319df13f4656f5853aaed2a544e1d",
+  "version" : 104,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/nn_NO.zip"
+}, {
+  "name" : "Occitan",
+  "language" : "oc",
+  "country" : "FR",
+  "sha1" : "a9790bb41ea2618f3375f967a53d4903213a8ef5",
+  "version" : 105,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/oc_FR.zip"
+}, {
+  "name" : "ଓଡ଼ିଆ",
+  "language" : "or",
+  "country" : "IN",
+  "sha1" : "2f7c324db792dc9c38168d45c97444f742bc48c9",
+  "version" : 102,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/or_IN.zip"
+}, {
+  "name" : "فارسی",
+  "language" : "fa",
+  "country" : "IR",
+  "sha1" : "ea97a77de83620970264c99b688a6a0c7d3aa795",
+  "version" : 102,
+  "archive" : "file:///system/com.touchtype/fa_IR.zip"
+}, {
+  "name" : "Polski",
+  "language" : "pl",
+  "country" : "PL",
+  "sha1" : "d759e25b6dbdde1f467281737e11ec6e3de55163",
+  "version" : 104,
+  "archive" : "file:///system/com.touchtype/pl_PL.zip"
+}, {
+  "name" : "Português (BR)",
+  "language" : "pt",
+  "country" : "BR",
+  "sha1" : "225fcd0aacbb5013fad87766b5558cae297ed65f",
+  "version" : 106,
+  "archive" : "file:///system/com.touchtype/pt_BR.zip"
+}, {
+  "name" : "Português (PT)",
+  "language" : "pt",
+  "country" : "PT",
+  "sha1" : "bdeab8734faa76ac5f2a70aa5bc3ccdc2ff65356",
+  "version" : 102,
+  "archive" : "file:///system/com.touchtype/pt_PT.zip"
+}, {
+  "name" : "ਪੰਜਾਬੀ",
+  "language" : "pa",
+  "country" : "IN",
+  "sha1" : "4a7b07619afe8d49eecd2fdf9765d623aed47479",
+  "version" : 107,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/pa_IN.zip"
+}, {
+  "name" : "Română",
+  "language" : "ro",
+  "country" : "RO",
+  "sha1" : "be58ba17943509f80318fcaab66246ac9b6a7eea",
+  "version" : 102,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/ro_RO.zip"
+}, {
+  "name" : "Русский",
+  "language" : "ru",
+  "country" : "RU",
+  "sha1" : "7d2ed13ec04ecbeb710c07b80fcba7372c7fc603",
+  "version" : 103,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/ru_RU.zip"
+}, {
+  "name" : "संस्कृतम्",
+  "language" : "sa",
+  "country" : "IN",
+  "sha1" : "1426d1c4b89746c44538906a22cd8d61fef61a84",
+  "version" : 101,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/sa_IN.zip"
+}, {
+  "name" : "संथाली",
+  "language" : "sat",
+  "country" : "IN",
+  "sha1" : "09a40dd3d4abfe2f2bdc644fdbf7b77bc272d06e",
+  "version" : 101,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/sat_IN.zip"
+}, {
+  "name" : "Srpski",
+  "language" : "sr",
+  "country" : "RS",
+  "sha1" : "94dbbb4a067c46dba604cb4ebf1f14b6ac3d4442",
+  "version" : 102,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/sr_RS.zip"
+}, {
+  "name" : "Српски",
+  "language" : "sr",
+  "country" : "YU",
+  "sha1" : "78f4a5736ddc229470f8720445884c8e14173eb0",
+  "version" : 101,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/sr_YU.zip"
+}, {
+  "name" : "简体中文",
+  "short_name" : "简",
+  "language" : "zh",
+  "country" : "CN",
+  "sha1" : "fec379688ca76146114dcfc0b96d74eb69fc38ef",
+  "version" : 26,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/zh_CN.zip"
+}, {
+  "name" : "सिन्धी",
+  "language" : "sd",
+  "country" : "IN",
+  "sha1" : "dc0bc432ac94d4719db9251e52d4648d6fd499bb",
+  "version" : 102,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/sd_IN.zip"
+}, {
+  "name" : "සිංහල",
+  "language" : "si",
+  "country" : "LK",
+  "sha1" : "19ee40e0559c7b0d4acc5f900842eed26b6ce8c8",
+  "version" : 101,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/si_LK.zip"
+}, {
+  "name" : "Slovenčina",
+  "language" : "sk",
+  "country" : "SK",
+  "sha1" : "6a5b9a828e9b3aae6b6047464bee22e31723245a",
+  "version" : 102,
+  "archive" : "file:///system/com.touchtype/sk_SK.zip"
+}, {
+  "name" : "Slovenščina",
+  "language" : "sl",
+  "country" : "SI",
+  "sha1" : "ea41d1855b533d3d590578f1a02f8f9b518efa4f",
+  "version" : 102,
+  "archive" : "file:///system/com.touchtype/sl_SI.zip"
+}, {
+  "name" : "Español (ES)",
+  "language" : "es",
+  "country" : "ES",
+  "sha1" : "4851fc5e516e79a6e4a1bd9d22d69596ccbf5e3c",
+  "version" : 107,
+  "archive" : "file:///system/com.touchtype/es_ES.zip"
+}, {
+  "name" : "Español (América Latina)",
+  "language" : "es",
+  "country" : "LA",
+  "sha1" : "f7be843e660533717d92957eb3d92602bff76f05",
+  "version" : 106,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/es_LA.zip"
+}, {
+  "name" : "Español (US)",
+  "language" : "es",
+  "country" : "US",
+  "sha1" : "bfee422dc04d08fed8ec97a98649f1c3f4c50a05",
+  "version" : 108,
+  "archive" : "file:///system/com.touchtype/es_US.zip"
+}, {
+  "name" : "Basa Sunda",
+  "language" : "su",
+  "country" : "ID",
+  "sha1" : "e1ce95a20f3312933bd593abd2f9ab9fc6b85306",
+  "version" : 100,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/su_ID.zip"
+}, {
+  "name" : "Kiswahili",
+  "language" : "sw",
+  "country" : "KE",
+  "sha1" : "a6a1c682a8f4aa709812e7f3e47c36dc7dffe052",
+  "version" : 101,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/sw_KE.zip"
+}, {
+  "name" : "Svenska",
+  "language" : "sv",
+  "country" : "SE",
+  "sha1" : "bde43f4e087d0fe5f36f28ab732fb312583c13b8",
+  "version" : 103,
+  "archive" : "file:///system/com.touchtype/sv_SE.zip"
+}, {
+  "name" : "Tagalog",
+  "language" : "tl",
+  "country" : "PH",
+  "sha1" : "65128c617b3156671465fee11b197dbbe0f4d0f2",
+  "version" : 100,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/tl_PH.zip"
+}, {
+  "name" : "Тоҷикӣ",
+  "language" : "tg",
+  "country" : "TJ",
+  "sha1" : "62e5ceac05dd12534c149389883eb69cce2cae6d",
+  "version" : 100,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/tg_TJ.zip"
+}, {
+  "name" : "தமிழ்",
+  "language" : "ta",
+  "country" : "IN",
+  "sha1" : "9053d8dc88c758d5537192688b02c446a28eaf66",
+  "version" : 108,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/ta_IN.zip"
+}, {
+  "name" : "Татарча",
+  "language" : "tt",
+  "country" : "RU",
+  "sha1" : "8abedb9a505b7c7c97a4e50c5d632b4a9aaf4ddf",
+  "version" : 100,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/tt_RU.zip"
+}, {
+  "name" : "తెలుగు",
+  "language" : "te",
+  "country" : "IN",
+  "sha1" : "16343203ab00aa611098b120b15ff661ae72b7f7",
+  "version" : 105,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/te_IN.zip"
+}, {
+  "name" : "ไทย",
+  "language" : "th",
+  "country" : "TH",
+  "sha1" : "8b72e2a6da77578fc8dcaa647d59b2b7feda8b5f",
+  "version" : 102,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/th_TH.zip"
+}, {
+  "name" : "繁體香港",
+  "short_name" : "繁",
+  "language" : "zh",
+  "country" : "HK",
+  "sha1" : "a922bb0cf483a70262df3d6ab546d794f430f25a",
+  "version" : 3,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/zh_HK.zip"
+}, {
+  "name" : "繁體台灣",
+  "short_name" : "繁",
+  "language" : "zh",
+  "country" : "TW",
+  "sha1" : "f1aa63447196cfb4cea41e2001f23f9b32fc42db",
+  "version" : 11,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/zh_TW.zip"
+}, {
+  "name" : "Türkçe",
+  "language" : "tr",
+  "country" : "TR",
+  "sha1" : "6f46a0762f1a9b1745585df24ba249087ada2fee",
+  "version" : 102,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/tr_TR.zip"
+}, {
+  "name" : "Türkmençe",
+  "language" : "tk",
+  "country" : "TM",
+  "sha1" : "55d4672796323722ca8a136bb5123fa861992a14",
+  "version" : 100,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/tk_TM.zip"
+}, {
+  "name" : "Українська",
+  "language" : "uk",
+  "country" : "UA",
+  "sha1" : "575f91af9d0b4c1e0d7a3da67f7f960a36ff8e5e",
+  "version" : 102,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/uk_UA.zip"
+}, {
+  "name" : "اردو",
+  "language" : "ur",
+  "country" : "PK",
+  "sha1" : "d9990e3a4a36bd3e5dc9ed469e56d87e982a7e11",
+  "version" : 102,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/ur_PK.zip"
+}, {
+  "name" : "O'zbekcha",
+  "language" : "uz",
+  "country" : "UZ",
+  "sha1" : "3b821b47341277857f79d954a8e0b731ab372e30",
+  "version" : 100,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/uz_UZ.zip"
+}, {
+  "name" : "Tiếng Việt",
+  "language" : "vi",
+  "country" : "VN",
+  "sha1" : "9d6947c87fbba7f969fa2cf4dc21dd0eefbbf8dc",
+  "version" : 103,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/vi_VN.zip"
+}, {
+  "name" : "Cymraeg",
+  "language" : "cy",
+  "country" : "GB",
+  "sha1" : "59fd9d7d93ab989c1884e1a6e6300e34c33d315e",
+  "version" : 101,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/cy_GB.zip"
+}, {
+  "name" : "IsiXhosa",
+  "language" : "xh",
+  "country" : "ZA",
+  "sha1" : "fd5db01d3e6a94faa550e1f7551cb9337e91d1b5",
+  "version" : 103,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/xh_ZA.zip"
+}, {
+  "name" : "Yorùbá",
+  "language" : "yo",
+  "country" : "NG",
+  "sha1" : "73d8ae06cd9693e0c2ffd85df1c30a592eea2feb",
+  "version" : 101,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/yo_NG.zip"
+}, {
+  "name" : "IsiZulu",
+  "language" : "zu",
+  "country" : "ZA",
+  "sha1" : "05d27c067c3677869480c33eab8eb1427e606ee9",
+  "version" : 103,
+  "beta" : "true",
+  "archive" : "file:///system/com.touchtype/zu_ZA.zip"
+} ]

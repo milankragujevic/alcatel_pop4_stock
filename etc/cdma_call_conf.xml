@@ -1,0 +1,28 @@
+<!-- according to CdmaCallOptionProvider.java
+type:
+CFUnconditional = 0;
+ CFBusy          = 1;
+CFNoReply       = 2;
+CFNoReachable   = 3;
+CFDeactivateAll = 4;
+CallWaiting     = 6;
+VoiceMail       = 7;
+call option state: activate, deactivate
+ACTIVATE = 1;
+DEACTIVATE = 0;
+call option category: normal number, voicemail
+NORMAL = 1;
+VOICEMAIL = 2;-->
+<calloptions>
+	<option mcc="310" mnc="00" carrier="Verizon" number="*72"  category="1" state="1" type="0"/>
+	<option mcc="310" mnc="00" carrier="Verizon" number="*73" category="1" state="0" type="0"/>
+	<option mcc="310" mnc="00" carrier="Verizon" number="*71"  category="1" state="1" type="1"/>
+	<option mcc="310" mnc="00" carrier="Verizon" number="*73" category="1" state="0" type="1"/>
+	<option mcc="310" mnc="00" carrier="Verizon" number="*71"  category="1" state="1" type="2"/>
+	<option mcc="310" mnc="00" carrier="Verizon" number="*73" category="1" state="0" type="2"/>
+	<option mcc="310" mnc="00" carrier="Verizon" number=""  category="1" state="1" type="3"/>
+	<option mcc="310" mnc="00" carrier="Verizon" number="" category="1" state="0" type="3"/>
+	<option mcc="310" mnc="00" carrier="Verizon" number="*73" category="1" state="0" type="4"/>
+	<option mcc="310" mnc="00" carrier="Verizon" number=""  category="1" state="1" type="6"/>
+	<option mcc="310" mnc="00" carrier="Verizon" number="" category="1" state="0" type="6"/>
+</calloptions>

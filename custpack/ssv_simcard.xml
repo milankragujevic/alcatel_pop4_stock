@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+**
+** Copyright 2011, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License")
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+-->
+
+<!-- this xml is used to define the mnc mapped spn -->
+<!--
+the simcard xml format
+
+<SimCardInfo operator = "">
+    <mcc>460</mcc>
+    <mnc>00</mnc>
+    <spn>00434d4343ffffffffffffffffffffffff</spn>
+    <gid>ff</gid>
+    <type></type>
+    <mapped>999</mapped>
+    <desc></desc>
+</SimCardInfo>
+
+-->
+<SimCardList xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!-- COMMON START -->
+<SimCardInfo>
+    <mcc>460</mcc>
+    <mnc>00</mnc>
+    <spn>00434d4343ffffffffffffffffffffffff</spn>
+    <mapped>999</mapped>
+</SimCardInfo>
+<SimCardInfo>
+    <mcc>460</mcc>
+    <mnc>01</mnc>
+    <spn>00ffffffffffffffffffffffffffffffff</spn>
+    <mapped>998</mapped>
+</SimCardInfo>
+<SimCardInfo>
+    <mcc>460</mcc>
+    <mnc>02</mnc>
+    <spn>00ffffffffffffffffffffffffffffffff</spn>
+    <mapped>998</mapped>
+</SimCardInfo>
+<SimCardInfo>
+    <mcc>334</mcc>
+    <mnc>020</mnc>
+    <mapped>999</mapped>
+</SimCardInfo>
+<!-- COMMON END -->
+
+<!-- TMO START -->
+<SimCardInfo operator="TMO">
+    <mcc>204</mcc>
+    <mnc>16</mnc>
+    <mapped>998</mapped>
+</SimCardInfo>
+<SimCardInfo operator="TMO">
+    <mcc>204</mcc>
+    <mnc>16</mnc>
+    <mapped>999</mapped>
+</SimCardInfo>
+<SimCardInfo operator="TMO">
+    <mcc>204</mcc>
+    <mnc>16</mnc>
+    <mapped>997</mapped>
+</SimCardInfo>
+<SimCardInfo operator="TMO">
+    <mcc>204</mcc>
+    <mnc>20</mnc>
+    <mapped>996</mapped>
+</SimCardInfo>
+<SimCardInfo operator="TMO">
+    <mcc>219</mcc>
+    <mnc>01</mnc>
+    <mapped>995</mapped>
+</SimCardInfo>
+<SimCardInfo operator="TMO">
+    <mcc>219</mcc>
+    <mnc>01</mnc>
+    <mapped>994</mapped>
+</SimCardInfo>
+<SimCardInfo operator="TMO">
+    <mcc>219</mcc>
+    <mnc>01</mnc>
+    <mapped>993</mapped>
+</SimCardInfo>
+<SimCardInfo operator="TMO">
+    <mcc>219</mcc>
+    <mnc>01</mnc>
+    <mapped>992</mapped>
+</SimCardInfo>
+<SimCardInfo operator="TMO">
+    <mcc>219</mcc>
+    <mnc>01</mnc>
+    <mapped>991</mapped>
+</SimCardInfo>
+<SimCardInfo operator="TMO">
+    <mcc>214</mcc>
+    <mnc>07</mnc>
+    <mapped>990</mapped>
+</SimCardInfo>
+<!-- TMO END -->
+
+
+<!-- FOC START -->
+<SimCardInfo operator="FOC">
+    <mcc>204</mcc>
+    <mnc>16</mnc>
+    <spn>542d4d6f62696c6520204e4cffffffff</spn>
+    <gid>ff</gid>
+    <mapped>500</mapped>
+</SimCardInfo>
+<SimCardInfo operator="FOC">
+    <mcc>204</mcc>
+    <mnc>16</mnc>
+    <spn>2656e204e4cffffffffffffffffffff</spn>
+    <gid>ff</gid>
+    <mapped>500</mapped>
+</SimCardInfo>
+<!-- FOC END -->
+
+
+<!-- TEF START -->
+<!-- 73010,74807,72207,33403,70403,70604,710300,714020,732123,73001,73002
+    732101,732103,732111,74000,74001,74002,71606,73404,71204
+    73003,722070,71030,71402,334030
+    73004,73005,73006,73007,73008,73009,73011,73099-->
+<SimCardInfo operator="TEF">
+    <mcc>730</mcc>
+    <mnc>04</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>730</mcc>
+    <mnc>05</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>730</mcc>
+    <mnc>06</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>730</mcc>
+    <mnc>07</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>730</mcc>
+    <mnc>08</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>730</mcc>
+    <mnc>09</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>730</mcc>
+    <mnc>11</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>730</mcc>
+    <mnc>99</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>730</mcc>
+    <mnc>10</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>748</mcc>
+    <mnc>07</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>722</mcc>
+    <mnc>07</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>334</mcc>
+    <mnc>03</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>704</mcc>
+    <mnc>03</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>706</mcc>
+    <mnc>04</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>710</mcc>
+    <mnc>300</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>714</mcc>
+    <mnc>020</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>732</mcc>
+    <mnc>123</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>730</mcc>
+    <mnc>01</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>730</mcc>
+    <mnc>02</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>732</mcc>
+    <mnc>101</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>732</mcc>
+    <mnc>103</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>732</mcc>
+    <mnc>111</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>740</mcc>
+    <mnc>00</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>740</mcc>
+    <mnc>01</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>740</mcc>
+    <mnc>02</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>716</mcc>
+    <mnc>06</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>734</mcc>
+    <mnc>04</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>712</mcc>
+    <mnc>04</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>730</mcc>
+    <mnc>03</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>722</mcc>
+    <mnc>070</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>710</mcc>
+    <mnc>30</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>714</mcc>
+    <mnc>02</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>334</mcc>
+    <mnc>030</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>712</mcc>
+    <mnc>04</mnc>
+</SimCardInfo>
+<SimCardInfo operator="TEF">
+    <mcc>712</mcc>
+    <mnc>04</mnc>
+</SimCardInfo>
+<!-- TEF END -->
+
+<!-- AMV START -->
+<!-- 722310,73003,732101,71203,37002,74001,70401,708001,71073,71021,74402,71610,70601,74810,330110,71403,334020 -->
+<SimCardInfo operator="AMV">
+    <mcc>722</mcc>
+    <mnc>310</mnc>
+</SimCardInfo>
+<SimCardInfo operator="AMV">
+    <mcc>730</mcc>
+    <mnc>03</mnc>
+</SimCardInfo>
+<SimCardInfo operator="AMV">
+    <mcc>732</mcc>
+    <mnc>101</mnc>
+</SimCardInfo>
+<SimCardInfo operator="AMV">
+    <mcc>712</mcc>
+    <mnc>03</mnc>
+</SimCardInfo>
+<SimCardInfo operator="AMV">
+    <mcc>370</mcc>
+    <mnc>02</mnc>
+</SimCardInfo>
+<SimCardInfo operator="AMV">
+    <mcc>740</mcc>
+    <mnc>01</mnc>
+</SimCardInfo>
+<SimCardInfo operator="AMV">
+    <mcc>704</mcc>
+    <mnc>01</mnc>
+</SimCardInfo>
+<SimCardInfo operator="AMV">
+    <mcc>708</mcc>
+    <mnc>001</mnc>
+</SimCardInfo>
+<SimCardInfo operator="AMV">
+    <mcc>710</mcc>
+    <mnc>73</mnc>
+</SimCardInfo>
+<SimCardInfo operator="AMV">
+    <mcc>710</mcc>
+    <mnc>21</mnc>
+</SimCardInfo>
+<SimCardInfo operator="AMV">
+    <mcc>744</mcc>
+    <mnc>02</mnc>
+</SimCardInfo>
+<SimCardInfo operator="AMV">
+    <mcc>716</mcc>
+    <mnc>10</mnc>
+</SimCardInfo>
+<SimCardInfo operator="AMV">
+    <mcc>706</mcc>
+    <mnc>01</mnc>
+</SimCardInfo>
+<SimCardInfo operator="AMV">
+    <mcc>748</mcc>
+    <mnc>10</mnc>
+</SimCardInfo>
+<SimCardInfo operator="AMV">
+    <mcc>330</mcc>
+    <mnc>110</mnc>
+</SimCardInfo>
+<SimCardInfo operator="AMV">
+    <mcc>714</mcc>
+    <mnc>03</mnc>
+</SimCardInfo>
+<SimCardInfo operator="AMV">
+    <mcc>334</mcc>
+    <mnc>020</mnc>
+</SimCardInfo>
+<!-- AMV END -->
+
+<SimCardInfo operator="ATT">
+    <mcc>334</mcc>
+    <mnc>050</mnc>
+    <gid>0</gid>
+    <mapped>899</mapped>
+</SimCardInfo>
+<!--
+<SimCardInfo operator="ATT">
+    <mcc>334</mcc>
+    <mnc>05</mnc>
+    <gid>0</gid>
+    <mapped>899</mapped>
+</SimCardInfo>
+
+<SimCardInfo operator="ATT">
+    <mcc>222</mcc>
+    <mnc>01</mnc>
+    <gid>0</gid>
+    <mapped>899</mapped>
+</SimCardInfo>
+
+<SimCardInfo operator="ATT">
+    <mcc>206</mcc>
+    <mnc>01</mnc>
+    <gid>0</gid>
+    <mapped>899</mapped>
+</SimCardInfo>
+-->
+<SimCardInfo operator="ATT">
+    <mcc>334</mcc>
+    <mnc>090</mnc>
+    <gid>0</gid>
+    <mapped>898</mapped>
+</SimCardInfo>
+
+
+<SimCardInfo operator="ATT">
+    <mcc>334</mcc>
+    <mnc>050</mnc>
+    <gid>1</gid>
+    <mapped>897</mapped>
+</SimCardInfo>
+<!--
+<SimCardInfo operator="ATT">
+    <mcc>334</mcc>
+    <mnc>05</mnc>
+    <gid>1</gid>
+    <mapped>897</mapped>
+</SimCardInfo>
+
+<SimCardInfo operator="ATT">
+    <mcc>222</mcc>
+    <mnc>01</mnc>
+    <gid>1</gid>
+    <mapped>897</mapped>
+</SimCardInfo>
+
+<SimCardInfo operator="ATT">
+    <mcc>206</mcc>
+    <mnc>01</mnc>
+    <gid>1</gid>
+    <mapped>897</mapped>
+</SimCardInfo>
+-->
+
+<SimCardInfo operator="ATT">
+    <mcc>460</mcc>
+    <mnc>01</mnc>
+    <gid>0</gid>
+    <mapped>899</mapped>
+</SimCardInfo>
+<SimCardInfo operator="ATT">
+    <mcc>460</mcc>
+    <mnc>11</mnc>
+    <gid>0</gid>
+    <mapped>897</mapped>
+</SimCardInfo>
+<SimCardInfo operator="ATT">
+    <mcc>460</mcc>
+    <mnc>01</mnc>
+    <gid>1</gid>
+    <mapped>898</mapped>
+</SimCardInfo>
+</SimCardList>

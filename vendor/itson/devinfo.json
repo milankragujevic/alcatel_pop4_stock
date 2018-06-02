@@ -1,0 +1,5 @@
+{
+  "cellularInterfaces" : [ "rmnet_data0", "rmnet_data1", "rmnet_data2", "rmnet_data3", "rmnet_data4", "rmnet_data5", "rmnet_data6", "rmnet_data7" ],
+  "wifiInterfaces" : [ "wlan0" ],
+  "lteOnCdma" : false
+}
